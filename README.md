@@ -1,4 +1,4 @@
-# Megasales Ecommerce
+# Selfcare Ecommerce
 
 Realizado como parte do desafio do curso de Desenvolvedor Front-End do Vai Na Web para criar uma página responsiva utilizando apenas CSS3 e HTML5. 
 
